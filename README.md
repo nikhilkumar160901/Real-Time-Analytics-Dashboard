@@ -83,6 +83,6 @@ Open your browser at http://localhost:3000 to view the dashboard.
 - Improve visuals (charts, transitions, dark mode)
 - Deploy to Vercel (frontend) + Railway/Render (backend)
 
-## 🎥 Demo (Optional but Recommended)
+## 🎥 Demo Video
 
 - Demo Video: https://drive.google.com/file/d/1hoxwawP13FExoOZ1uxzdsXAyMrA4QFPq/view?usp=sharing
