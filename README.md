@@ -64,10 +64,19 @@ Open your browser at http://localhost:3000 to view the dashboard.
 }
 ```
 
+## 📐 System Architecture
 ### 🔧 Components
 
 - Frontend (React): Renders UI, listens for WebSocket updates, and updates the state.
 - Backend (Node.js): Emits mock traffic data using socket.io every 3 seconds.
+
+## 📊 Architecture Diagram
+```bash
+[ Backend (Node.js + Socket.IO) ]
+             ↓ WebSocket
+[ Frontend (React + Recharts) ]
+```
+
 
 ## 💡 Assumptions
 
